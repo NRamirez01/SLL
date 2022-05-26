@@ -1,5 +1,3 @@
-const { withMobileDialog } = require("@material-ui/core");
-
 class Node {
   constructor(data) {
     this.data = data;
@@ -7,7 +5,7 @@ class Node {
   }
 }
 
-class SLL {
+class displaySLL {
   constructor() {
     this.head = null;
   }
