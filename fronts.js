@@ -5,7 +5,7 @@ class Node {
   }
 }
 
-class SLL {
+class frontsSLL {
   constructor() {
     this.head = null;
   }
